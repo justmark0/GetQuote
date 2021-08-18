@@ -4,16 +4,20 @@ Browse a random quote to give you encouragement and inspiration.
 
 ### Screenshots & how to use
 The button below greets you when you load the page
+
 ![button](https://github.com/justmark0/GetQuote/raw/main/demo/demo_image_1.jpg)
 
 After pressing this button, you go to the page with the quote itself
+
 ![quote1](https://github.com/justmark0/GetQuote/raw/main/demo/demo_image_2.jpg)
 
 Update page and receive one more quote!
+
 ![quote2](https://github.com/justmark0/GetQuote/raw/main/demo/demo_image_3.jpg)
 
 ### Demo
 Simple gif demo of our project (a bit bugged, don't judge us)
+
 ![gif](https://github.com/justmark0/GetQuote/raw/main/demo/demo.gif)
 
 ### Installation guide
